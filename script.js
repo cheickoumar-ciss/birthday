@@ -12,9 +12,9 @@ var w = c.width = window.innerWidth,
     
    opts = {
  strings: ['JOYEUX', 'ANNIVERSAIRE!'], 
-  charSize: window.innerWidth < 768 ? 30 : 48,
-  charSpacing: window.innerWidth < 768 ? 30 : 50,
-  lineHeight: window.innerWidth < 768 ? 40 : 60,
+  charSize: window.innerWidth < 768 ? 28 : 48,
+  charSpacing: window.innerWidth < 768 ? 25 : 50,
+  lineHeight: window.innerWidth < 768 ? 35 : 60,
       fontWeight: 'bold',
       fontFamily: "'Poppins', 'Quicksand', sans-serif",
       
